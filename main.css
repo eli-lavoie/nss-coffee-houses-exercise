@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(22,22,22);
+}
+
+.pageHeader {
+    text-align: center;
+    font-family: sans-serif;
+    color: palegreen;
+    margin-bottom: 10px;
+}
+
+.list {
+    display: flex;
+    color: rgb(155, 245, 255);
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.shop:nth-of-type(13){
+    margin-left: 80px;
+}
+.shop {
+    flex: 1 2 32%;
+
+}
